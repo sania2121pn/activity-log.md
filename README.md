@@ -7,3 +7,4 @@ Day 6 — testing additional onchain interactions
 Day 7 — observing transaction patterns on Base
 testing new Base apps today
 interacting with different onchain tools
+monitoring transaction activity on Base
