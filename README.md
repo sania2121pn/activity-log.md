@@ -6,3 +6,4 @@ Day 5 — continuing Base ecosystem exploration
 Day 6 — testing additional onchain interactions
 Day 7 — observing transaction patterns on Base
 testing new Base apps today
+interacting with different onchain tools
