@@ -8,3 +8,4 @@ Day 7 — observing transaction patterns on Base
 testing new Base apps today
 interacting with different onchain tools
 monitoring transaction activity on Base
+exploring new protocols in the ecosystem
