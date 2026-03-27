@@ -12,3 +12,4 @@ exploring new protocols in the ecosystem
 continuing daily onchain interactions
 testing different Base tools and interactions
 focusing on consistent onchain activity
+reviewing transaction patterns and usage
