@@ -10,3 +10,4 @@ interacting with different onchain tools
 monitoring transaction activity on Base
 exploring new protocols in the ecosystem
 continuing daily onchain interactions
+testing different Base tools and interactions
