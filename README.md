@@ -15,3 +15,4 @@ focusing on consistent onchain activity
 reviewing transaction patterns and usage
 testing new interactions on Base network
 exploring additional Base applications
+continuing consistent onchain usage
