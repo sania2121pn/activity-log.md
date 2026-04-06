@@ -16,3 +16,4 @@ reviewing transaction patterns and usage
 testing new interactions on Base network
 exploring additional Base applications
 continuing consistent onchain usage
+continuing Base usage and testing apps
