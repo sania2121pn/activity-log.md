@@ -18,3 +18,4 @@ exploring additional Base applications
 continuing consistent onchain usage
 continuing Base usage and testing apps
 exploring more onchain interactions
+staying consistent with Base activity
