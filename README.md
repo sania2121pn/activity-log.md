@@ -17,3 +17,4 @@ testing new interactions on Base network
 exploring additional Base applications
 continuing consistent onchain usage
 continuing Base usage and testing apps
+exploring more onchain interactions
